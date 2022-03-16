@@ -4,62 +4,90 @@
 
 /**
  *
- *  * main - prints all possible different combinations of three digits
+ *  * main - print triple combos
  *
- *   * Return: Always 0 (Success)
+ *   *
  *
- *    */
+ *    * Description: print triple digit combos
+ *
+ *     *
+ *
+ *      * Return: Always 0 (Success)
+ *
+ *       */
+
+
 
 int main(void)
 
 {
 
-	int n, m, l;
+		int i, j, k;
 
 
 
-	for (n = 48; n < 58; n++)
+			i = 48;
 
-	{
+				j = 48;
 
-		for (m = 49; m < 58; m++)
+					k = 48;
 
-		{
 
-			for (l = 50; l < 58; l++)
 
-			{
+						while (i < 58)
 
-				if (l > m && m > n)
+								{
 
-				{
+											j = i + 1;
 
-					putchar(n);
+													while (j < 58)
 
-					putchar(m);
+																{
 
-					putchar(l);
+																				k = j + 1;
 
-					if (n != 55 || m != 56)
+																							while (k < 58)
 
-					{
+																											{
 
-						putchar(',');
+																																putchar(i);
 
-						putchar(' ');
+																																				putchar(j);
 
-					}
+																																								putchar(k);
 
-				}
+																																												if (i < 55 || j < 56 || k < 57)
 
-			}
+																																																	{
 
-		}
+																																																							putchar(44);
 
-	}
+																																																												putchar(32);
 
-	putchar('\n');
+																																																																}
 
-	return (0);
+																																																k++;
+
+																																																			}
+
+
+
+																										j++;
+
+																												}
+
+
+
+															i++;
+
+																}
+
+
+
+							putchar(10);
+
+
+
+								return (0);
 
 }
