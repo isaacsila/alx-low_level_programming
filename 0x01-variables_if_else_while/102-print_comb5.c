@@ -6,6 +6,7 @@
  * Description: Print all possible combinations of two two-digit numbers
  * Return: 0
  */
+
 int main(void)
 {
 	int x1;
