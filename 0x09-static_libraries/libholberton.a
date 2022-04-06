@@ -1,0 +1,125 @@
+!<arch>
+/               1570917862  0     0     0       246       `
+:f
+  ▒R~!▒'^,▒1▒7z<▒B▒H▒N"S^X▒^vc▒h▒_isupper_memset_strcat_atoi_isdigit_memcpy_strncat_strchr_strlen_strncpy_islower_puts_strcmp_strspn_isalpha_strpbrk_strstr_abs_strcpy_putchar0-isupper.o/    1570917810  1000  1000  100664  1264      `
+ELF>(@@
+▒}▒Z▒▒▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+\                                                            !A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame!!aa,0a45▒J▒E▒       ▒T▒▒
+!0-isupper.c_isupper 0-memset.o/     1570917810  1000  1000  100664  1288      `
+ELF>@@@
+      UH▒▒H▒}▒▒▒U▒▒E▒▒E▒▒▒U▒H▒E▒H▒▒E▒▒E▒▒E▒;E▒r▒H▒E▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+v                         ;A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame;!{{,0{45▒J▒E▒       ▒T▒
+        ▒▒▒
+           ;0-memset.c_memset 0-strcat.o/     1570917811  1000  1000  100664  1336      `
+ELF>p@@
+      UH▒▒H▒}▒H▒u▒▒E▒▒E▒▒▒E▒▒U▒H▒E▒H▒▒▒▒u▒▒!▒U▒H▒E▒HM▒H▒E▒H▒▒▒▒E▒▒E▒▒U▒H▒E▒H▒▒▒▒u▒H▒E▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+f                                                           kA▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_framek!▒▒,0▒45▒J▒E        T0▒
+       ▒▒
+         k0-strcat.c_strcat 100-atoi.o/     1570917811  1000  1000  100664  1528      `
+ELF>0@@
+      UH▒▒H▒}▒▒E▒▒E▒▒E▒▒E▒Hc▒H▒E▒H▒▒<-u▒]▒▒E▒▒E▒Hc▒H▒E▒H▒▒</~▒E▒Hc▒H▒E▒H▒▒<9~|▒E▒Hc▒H▒E▒H▒▒▒▒u▒▒f▒}▒x1▒U▒▒▒▒▒▒▒▒▒▒E▒Hc▒H▒E▒H▒▒▒▒▒▒0)▒▒ȉE▒▒E▒▒/▒U▒▒▒▒▒▒▒▒▒▒E▒Hc▒H▒E▒H▒▒▒▒▒▒0)▒▒ȉE▒▒E▒▒E▒Hc▒H▒E▒H▒▒</~,▒E▒Hc▒H▒E▒H▒▒<9▒E▒Hc▒H▒E▒H▒▒▒▒▒Z▒▒▒▒]▒▒E▒▒E▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+%                                                      *A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame*!jj,0j45▒J▒E▒       ▒T▒▒
+        ▒▒▒
+           *100-atoi.c_atoi 1-isdigit.o/    1570917811  1000  1000  100664  1264      `
+ELF>(@@
+▒}▒9▒▒▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+\                                                            !A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame!!aa,0a45▒J▒E▒       ▒T▒▒
+!1-isdigit.c_isdigit 1-memcpy.o/     1570917811  1000  1000  100664  1312      `
+ELF>X@@
+      UH▒▒H▒}▒H▒u▒▒U▒▒E▒▒E▒▒!▒U▒H▒E▒HM▒H▒E▒H▒▒▒▒E▒▒E▒▒E▒;E▒r▒H▒E▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+I                                      NA▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frameN!▒▒,0▒45▒J▒ET▒
+        ▒▒▒
+           N1-memcpy.c_memcpy 1-strncat.o/    1570917811  1000  1000  100664  1352      `
+ELF>▒@@
+      UH▒▒H▒}▒H▒u▒▒U▒▒E▒▒E▒▒▒E▒▒U▒H▒E▒H▒▒▒▒u▒▒,▒E▒;E▒} ▒U▒H▒E▒HE▒Hc▒H▒E▒H▒▒▒▒E▒▒E▒▒E▒Hc▒H▒E▒H▒▒▒▒u▒H▒E▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+                                                                             |A▒w
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame|!▒▒,0▒45▒J▒E0       (T@▒
+|1-strncat.c_strncat 2-strchr.o/     1570917812  1000  1000  100664  1304      `
+ELF>P@@
+      UH▒▒H▒}▒▒▒▒E▒▒H▒E▒▒:E▒uH▒E▒▒'H▒E▒H▒E▒▒▒▒u▒H▒E▒▒:E▒uH▒E▒▒▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+E                                    JA▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frameJ!▒▒,0▒45▒J▒E▒T▒
+        ▒▒▒
+           J2-strchr.c_strchr 2-strlen.o/     1570917812  1000  1000  100664  1280      `
+ELF>8@@
+      UH▒▒H▒}▒▒E▒▒▒E▒▒E▒Hc▒H▒E▒H▒▒▒▒u▒E▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+i             .A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame.!nn,0n45▒J▒E▒       ▒T▒▒
+        ▒▒▒
+           .2-strlen.c_strlen 2-strncpy.o/    1570917812  1000  1000  100664  1360      `
+ELF>▒@@
+      UH▒▒H▒}▒H▒u▒▒U▒▒E▒▒#▒E▒Hc▒H▒E▒HE▒Hc▒H▒E▒H▒▒▒▒E▒▒E▒;E▒},▒E▒Hc▒H▒E▒H▒▒▒▒u▒▒▒E▒▒P▒U▒Hc▒H▒E▒H▒▒▒E▒;E▒u▒H▒E▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+x  }A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame}!▒▒,0▒45▒J▒E8       0TH▒
+}2-strncpy.c_strncpy 3-islower.o/    1570917812  1000  1000  100664  1264      `
+ELF>(@@
+▒}▒z▒▒▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+\                                                            !A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame!!aa,0a45▒J▒E▒       ▒T▒▒
+!3-islower.c_islower 3-puts.o/       1570917813  1000  1000  100664  1464      `
+ELF>`@@
+        UH▒▒H▒▒ H▒}▒▒E▒▒▒E▒Hc▒H▒E▒H▒▒▒▒▒▒▒▒E▒▒E▒Hc▒H▒E▒H▒▒▒▒uο
+▒▒▒▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+O                                                       TA▒C
+.symtab.strtab.shstrtab.rela.text.data.bss.comment.note.GNU-stack.rela.eh_frame @T0
+&▒▒10▒4:▒O▒J▒
+Y`▒
+        P▒▒
+T3-puts.c_puts_putchar+ ▒▒▒▒▒▒▒▒M       ▒▒▒▒▒▒▒▒ 3-strcmp.o/     1570917813  1000  1000  100664  1464      `
+ELF>▒@@
+      UH▒▒H▒}▒H▒u▒▒E▒▒▒E▒Hc▒H▒E▒H▒▒▒E▒Hc▒H▒E▒H▒▒8▒~2▒E▒Hc▒H▒E▒H▒▒▒ЋE▒Hc▒H▒E▒H▒▒▒▒)ЉE▒▒E▒▒w▒E▒Hc▒H▒E▒H▒▒▒E▒Hc▒H▒E▒H▒▒8▒}2▒E▒Hc▒H▒E▒H▒▒▒ЋE▒Hc▒H▒E▒H▒▒▒▒)ЉE▒▒E▒▒!▒E▒▒E▒Hc▒H▒E▒H▒▒▒▒▒8▒▒▒▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+▒                                                                           ▒A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame▒!'',0'45[J`E▒       ▒T▒▒
+        ▒▒▒
+           ▒3-strcmp.c_strcmp 3-strspn.o/     1570917813  1000  1000  100664  1368      `
+ELF>▒@@
+      UH▒▒H▒}▒H▒u▒▒E▒▒E▒▒Y▒E▒▒&H▒E▒▒▒E▒Hc▒H▒E▒H▒▒8▒u▒E▒▒E▒▒E▒Hc▒H▒E▒H▒▒▒▒u▒▒E▒▒}▒t▒E▒H▒E▒H▒E▒▒▒▒u▒▒▒▒E▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+                                                                             ▒A▒▒
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame▒!▒▒,0▒45▒JE@8TP▒
+        (▒▒
+           ▒3-strspn.c_strspn 4-isalpha.o/    1570917813  1000  1000  100664  1280      `
+ELF>8@@
+      UH▒▒}▒▒}▒@~▒}▒Z~
+▒}▒z▒▒▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+h                                                            -A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame-!mm,0m45▒J▒E▒       ▒T▒▒
+-4-isalpha.c_isalpha 4-strpbrk.o/    1570917814  1000  1000  100664  1360      `
+ELF>▒@@
+      UH▒▒H▒}▒H▒u▒▒E▒▒[▒E▒▒&H▒E▒▒▒E▒Hc▒H▒E▒H▒▒8▒u▒E▒▒E▒▒E▒Hc▒H▒E▒H▒▒▒▒u▒▒E▒▒}▒uH▒E▒▒H▒E▒H▒E▒▒▒▒u▒▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+}                                                                       ▒A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame▒!▒▒,0▒45▒J▒E8       0TH▒
+▒4-strpbrk.c_strpbrk 5-strstr.o/     1570917814  1000  1000  100664  1360      `
+ELF>▒@@
+      UH▒▒H▒}▒H▒u▒▒aH▒E▒H▒E▒H▒E▒H▒E▒▒
+H▒E▒H▒E▒H▒E▒▒H▒E▒▒8▒uH▒E▒▒▒▒t
+                             H▒E▒▒▒▒u▒H▒E▒▒▒▒uH▒E▒▒H▒E▒H▒▒H▒E▒H▒E▒▒▒▒u▒▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+|                                             ▒A▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame▒!▒▒,0▒45▒J▒E8       0TH▒
+         ▒▒
+           ▒5-strstr.c_strstr 6-abs.o/        1570917814  1000  1000  100664  1248      `
+ELF> @@
+      UH▒▒}▒▒}▒▒]▒▒E▒▒▒E▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+                                                                              A▒U
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame!ZZ,0Z45▒J▒E▒▒T▒▒
+        ▒▒▒     6-abs.c_abs 9-strcpy.o/     1570917814  1000  1000  100664  1328      `
+ELF>h@@
+      UH▒▒H▒}▒H▒u▒▒E▒▒#▒E▒Hc▒H▒E▒HE▒Hc▒H▒E▒H▒▒▒▒E▒▒E▒Hc▒H▒E▒H▒▒▒▒uɋE▒Hc▒H▒E▒H▒▒H▒E▒]▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+]                                                        bA▒C
+.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frameb!▒▒,0▒45▒J▒ET(▒
+        ▒▒
+          b9-strcpy.c_strcpy _putchar.o/     1570917815  1000  1000  100664  1400      `
+ELF>8@@
+        UH▒▒H▒▒▒▒▒E▒H▒E▒▒H▒ƿ▒▒▒GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx
+`  %A▒C
+.symtab.strtab.shstrtab.rela.text.data.bss.comment.note.GNU-stack.rela.eh_frame @%
+&ee10e4:▒O▒J`
+▒Y8▒
+        (▒
+          %_putchar.c_putcharwrite      ▒▒▒▒▒▒▒▒
+
