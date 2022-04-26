@@ -1,33 +1,28 @@
 #include "lists.h"
 
 /**
- *print_listint_safe - printf a list of elements with address
- *@head: head of the linked list
+ * print_listint_safe - prints a linked list, safely
+ * @head: list of type listint_t to print
  *
- *Return: size of the linked list
+ * Return: number of nodes in the list
  */
 size_t print_listint_safe(const listint_t *head)
 {
-	size_t n;
-	int *add_a, *add_b;
-
-	n = 0;
-	if (head == NULL)
-		return (n);
-	while (head != NULL)
+	size_t num = 0;
+	long int diff;
+	while (head)
 	{
+		diff = head - head->next;
+		num++;
 		printf("[%p] %d\n", (void *)head, head->n);
-		add_a = (int *)&head;
-		add_b = (int *)&head->next;
-		if (add_a[0] - add_b[0] <= 0)
-		{
+		if (diff > 0)
 			head = head->next;
-			n++;
-			printf("-> [%p] %d\n", (void *)head, head->n);
-			return (n);
+		else
+		{
+			printf("-> [%p] %d\n", (void *)head->next, head->next->n);
+			break;
 		}
-		head = head->next;
-		n++;
 	}
-	return (n);
+
+	return (num);
 }
